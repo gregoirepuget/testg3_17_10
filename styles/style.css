@@ -1,3 +1,18 @@
-*{
-  color:red;
+body{
+  background:#AAAAAA;
+}
+div{
+  width:300px;
+  height:200px;
+}
+.blue{
+  background: #3498db;
+}
+
+.white{
+  background:white;
+}
+
+.red{
+  background:#e74c3c;
 }
